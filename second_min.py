@@ -1,4 +1,4 @@
-#-------------------Find out second minimum value in the list----------------------------
+#-------------------Find out second minimum value in the list-----
 def mymini(list1):
     mini = list1[0]
     for i in range(n):
